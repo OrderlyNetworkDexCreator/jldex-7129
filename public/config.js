@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/jewliquid69",
   "VITE_SEO_SITE_NAME": "jewliquid",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/jldex-7129/",
+  "VITE_SEO_SITE_URL": "https://jewliquid.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@jewliquid69",
